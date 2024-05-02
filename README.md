@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### - 😄 I am 24 years old. I graduated from MEPhI University with a degree in Information Technologies in Science and Instrument Engineering. My stack of C++/Python, Django, MS VS.
 ### - 🌱 Now I’m studying a new specialty for myself - neural networks. I hope to become a good specialist in this field in the near future and receive a good offer.
-### - - 📫 How to reach me: Telegram: @DimaRen, VK: https://vk.com/dimaren1602
+### - 📫 How to reach me: Telegram: @DimaRen, VK: https://vk.com/dimaren1602
 <!--
 **DimaRen1602/DimaRen1602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
