@@ -1,5 +1,5 @@
 ### Hi there 👋
-### - 😄 I am 24 years old. I graduated from MEPhI University with a degree in Information Technologies in Science and Instrument Engineering. My stack of C++/Python, Django.
+### - 😄 I am 25 years old. I graduated from MEPhI University with a degree in Information Technologies in Science and Instrument Engineering. My stack of C++/Python, Django.
 ### - 🌱 Now I’m studying a new specialty for myself - neural networks. I hope to become a good specialist in this field in the near future and receive a good offer.
 ### - 📫 How to reach me: Telegram: @DimaRen, VK: https://vk.com/dimaren1602
 <!--
